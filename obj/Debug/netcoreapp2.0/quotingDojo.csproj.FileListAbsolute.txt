@@ -1,0 +1,10 @@
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/obj/Debug/netcoreapp2.0/quotingDojo.csproj.CoreCompileInputs.cache
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/obj/Debug/netcoreapp2.0/quotingDojo.AssemblyInfoInputs.cache
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/obj/Debug/netcoreapp2.0/quotingDojo.AssemblyInfo.cs
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/bin/Debug/netcoreapp2.0/quotingDojo.deps.json
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/bin/Debug/netcoreapp2.0/quotingDojo.runtimeconfig.json
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/bin/Debug/netcoreapp2.0/quotingDojo.runtimeconfig.dev.json
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/bin/Debug/netcoreapp2.0/quotingDojo.dll
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/bin/Debug/netcoreapp2.0/quotingDojo.pdb
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/obj/Debug/netcoreapp2.0/quotingDojo.dll
+/Users/benlevin/Desktop/DojoAssignments/csharp/week_3/quotingDojo/obj/Debug/netcoreapp2.0/quotingDojo.pdb

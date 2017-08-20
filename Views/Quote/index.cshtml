@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" contetn="ie=edge">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <title>QuotingDojo | Quotes</title>
+    </head>
+    <body>
+        <h1>Check Out These Quotes:</h1>
+        <h5>
+            @foreach(var type in @ViewBag.Quotes)
+            {
+            <h5>"@type["quote"]"</h5>
+                <ul>
+                    <h6><ol>
+                        -@type["user"] at @type["created_at"].ToString("h:mm tt") @type["created_at"].ToString("MMMM dd, yyyy")
+                    </ol></h6>
+                </ul>
+            }
+            
+        </h5>
+        <a href='/'><button type=''>add quote</button></a>
+    </body>
+</html>

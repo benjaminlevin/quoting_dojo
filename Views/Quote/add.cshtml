@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" contetn="ie=edge">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <title>QuotingDojo | Add Quote</title>
+    </head>
+    <body>
+        <h2>Welcome to QuotingDojo</h2>
+        <form action='/quotes' method='post'>
+            <h4>Name: <input type='text' name='name'size='40'></h4>
+            <h4>Quote: <input type='text' name='quote' size='80'></h4>
+            <br>
+            <input type='submit' value='add quote'>
+        </form>
+        <a href="/quotes"><button type='submit'>skip to quotes</button></a>
+    </body>
+</html>
